@@ -54,7 +54,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dileksahinn-138x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/dileksahinn-138x1281.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -782,7 +782,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dileksahinn-138x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/dileksahinn-138x1281.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1452,7 +1452,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dileksahinn-138x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/dileksahinn-138x1281.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1467,7 +1467,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "_name": "ext.menu",
-          "_customHTML": "<section class=\"mbr-navbar mbr-navbar--freeze mbr-navbar--absolute mbr-navbar--auto-collapse mbr-navbar--transparent\" data-rv-view=\"105\">\n    <div class=\"mbr-navbar__section mbr-section\">\n        <div class=\"mbr-section__container container\">\n            <div class=\"mbr-navbar__container\">\n                <div class=\"mbr-navbar__column mbr-navbar__column--s mbr-navbar__brand\">\n                    <span class=\"mbr-navbar__brand-link mbr-brand mbr-brand--inline\">\n                        <span class=\"mbr-brand__logo\"><a href=\"https://mobirise.com\"><img src=\"@PROJECT_PATH@/assets/images/dileksahinn-138x128.png\" class=\"mbr-navbar__brand-img mbr-brand__img\" alt=\"Mobirise\"></a></span>\n                        \n                    </span>\n                </div>\n                <div class=\"mbr-navbar__hamburger mbr-hamburger\"><span class=\"mbr-hamburger__line\"></span></div>\n                <div class=\"mbr-navbar__column mbr-navbar__menu\">\n                    <nav class=\"mbr-navbar__menu-box mbr-navbar__menu-box--inline-right\">\n                        <div class=\"mbr-navbar__column\">\n                            <ul class=\"mbr-navbar__items mbr-navbar__items--right float-left mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active mbr-buttons--only-links\"><li class=\"mbr-navbar__item\"><a class=\"mbr-buttons__link btn text-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"9\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a class=\"mbr-buttons__link btn text-white mbr-editable-menu-item\" href=\"onlinemagaza.html\" code-editable-id=\"10\">ONLİNE MAĞAZA&nbsp;</a></li><li class=\"mbr-navbar__item\"><a class=\"mbr-buttons__link btn text-white mbr-editable-menu-item\" href=\"iletisim.html\" code-editable-id=\"11\">İLETİŞİM</a></li></ul>                            \n                            \n                        </div>\n                    </nav>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-navbar mbr-navbar--freeze mbr-navbar--absolute mbr-navbar--auto-collapse mbr-navbar--transparent\" data-rv-view=\"105\">\n    <div class=\"mbr-navbar__section mbr-section\">\n        <div class=\"mbr-section__container container\">\n            <div class=\"mbr-navbar__container\">\n                <div class=\"mbr-navbar__column mbr-navbar__column--s mbr-navbar__brand\">\n                    <span class=\"mbr-navbar__brand-link mbr-brand mbr-brand--inline\">\n                        <span class=\"mbr-brand__logo\"><a href=\"https://mobirise.com\"><img src=\"@PROJECT_PATH@/assets/images/dileksahinn-138x128.png\" class=\"mbr-navbar__brand-img mbr-brand__img\" alt=\"Mobirise\"></a></span>\n                        \n                    </span>\n                </div>\n                <div class=\"mbr-navbar__hamburger mbr-hamburger\"><span class=\"mbr-hamburger__line\"></span></div>\n                <div class=\"mbr-navbar__column mbr-navbar__menu\">\n                    <nav class=\"mbr-navbar__menu-box mbr-navbar__menu-box--inline-right\">\n                        <div class=\"mbr-navbar__column\">\n                            <ul class=\"mbr-navbar__items mbr-navbar__items--right float-left mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active mbr-buttons--only-links\"><li class=\"mbr-navbar__item\"><a class=\"mbr-buttons__link btn text-white mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"40\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a class=\"mbr-buttons__link btn text-white mbr-editable-menu-item\" href=\"onlinemagaza.html\" code-editable-id=\"41\">ONLİNE MAĞAZA&nbsp;</a></li><li class=\"mbr-navbar__item\"><a class=\"mbr-buttons__link btn text-white mbr-editable-menu-item\" href=\"iletisim.html\" code-editable-id=\"42\">İLETİŞİM</a></li></ul>                            \n                            \n                        </div>\n                    </nav>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_customCSS": ".mbr-brand__name {\n  font-size: 16px;\n}\n&.mbr-navbar--stuck .mbr-navbar__section {\n  background: #2c2c2c;\n}\n.mbr-navbar__section {\n}\n.mbr-navbar__hamburger {\n  color: #ffffff;\n}\n",
           "_customTemplate": true,
           "_anchor": "ext_menu-9"
